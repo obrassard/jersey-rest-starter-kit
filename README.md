@@ -1,4 +1,4 @@
-# jersey-rest-starter
+# jersey-rest-starter-pack
 A Maven webapp/rest starter project for Jersey using Tomcat7, JOOQ and Gson
 
 ### Get started
